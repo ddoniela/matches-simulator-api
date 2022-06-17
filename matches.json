@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.todamateria.com.br/bandeira-do-brasil/"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeira_argentina_bb.jpg"
     }  
   }
 ]
