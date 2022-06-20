@@ -15,5 +15,42 @@
       "forca": 5,
       "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeira_argentina_bb.jpg"
     }  
-  }
+  },
+  
+    
+   {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Estádio Centenário",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Uruguai",
+      "forca": 4,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/255px-Flag_of_Uruguay.svg.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg"
+    }  
+  },
+  
+   {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg"
+    },
+    "visitante": {
+      "nome": "Colômbia",
+      "forca": 4,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png"
+    }  
+  },
 ]
